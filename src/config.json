@@ -1,0 +1,5 @@
+{
+    "token" : "YOUR_TOKEN_HERE", /* Your bot token */
+    "clientId" : "YOUR_BOT_ID_HERE", /* Your bot ID */
+    "guildId" : "YOUR_SERVER_ID_HERE"  /* Your server ID */
+  }
